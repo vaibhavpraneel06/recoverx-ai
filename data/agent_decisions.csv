@@ -1,0 +1,760 @@
+transaction_id,amount,payment_method,failure_reason,retry_count,recovery_probability,expected_recovery,action,reason
+TXN104118,43479.75,WALLET,TIMEOUT,0,76.0,33044.61,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN100415,49497.29,UPI,TIMEOUT,0,86.67,42897.65,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN104617,41669.45,WALLET,TIMEOUT,0,39.33,16389.98,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN100937,43482.5,WALLET,TIMEOUT,0,76.0,33046.7,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN104579,48692.06,CARD,TIMEOUT,0,88.0,42849.01,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103529,48925.16,CARD,TIMEOUT,0,88.0,43054.14,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103694,38816.95,UPI,TIMEOUT,0,91.33,35452.81,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103771,22228.57,CARD,TIMEOUT,0,99.33,22080.38,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103725,23043.26,UPI,TIMEOUT,0,95.33,21967.91,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103916,44398.67,NETBANKING,TIMEOUT,0,72.0,31967.04,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN101989,24891.41,WALLET,TIMEOUT,0,32.0,7965.25,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN102035,34638.09,CARD,TIMEOUT,0,43.33,15009.84,RETRY_LATER,"The failure may be temporary, but the recovery probability is moderate."
+TXN102775,36733.63,UPI,TIMEOUT,0,92.67,34039.83,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN101336,21381.93,UPI,TIMEOUT,0,90.0,19243.74,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN102960,42294.42,UPI,TIMEOUT,0,37.33,15789.92,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN102836,32350.93,CARD,TIMEOUT,0,88.67,28684.49,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN101035,24329.68,CARD,TIMEOUT,0,94.0,22869.9,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN102886,29540.5,WALLET,TIMEOUT,0,78.67,23238.53,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN104008,39296.44,UPI,TIMEOUT,1,18.67,7335.34,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN102944,46494.53,UPI,NETWORK_ERROR,0,11.33,5269.38,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN102227,47449.47,UPI,TIMEOUT,1,81.33,38592.24,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN101302,29843.91,NETBANKING,NETWORK_ERROR,0,82.0,24472.01,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN102253,27364.95,WALLET,NETWORK_ERROR,0,36.0,9851.38,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN102132,32989.23,WALLET,TIMEOUT,1,81.33,26831.24,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN101883,47895.11,NETBANKING,NETWORK_ERROR,0,24.0,11494.83,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN102073,32265.71,UPI,TIMEOUT,1,21.33,6883.35,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN101444,28330.4,UPI,NETWORK_ERROR,0,93.33,26441.71,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN101696,40989.5,WALLET,TIMEOUT,1,33.33,13663.17,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN102387,45841.04,NETBANKING,NETWORK_ERROR,0,15.33,7028.96,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN104779,38313.55,WALLET,NETWORK_ERROR,0,81.33,31161.69,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN102396,31040.21,UPI,NETWORK_ERROR,0,96.67,30005.54,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN102676,38534.7,UPI,NETWORK_ERROR,0,28.0,10789.72,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN102504,29943.85,WALLET,TIMEOUT,1,30.67,9182.78,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN101127,31232.35,NETBANKING,TIMEOUT,1,92.67,28941.98,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103196,30231.47,WALLET,NETWORK_ERROR,0,19.33,5844.75,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN103170,24953.93,UPI,TIMEOUT,1,26.67,6654.38,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN104823,23370.2,CARD,TIMEOUT,1,97.33,22746.99,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN104839,44017.09,WALLET,NETWORK_ERROR,0,78.67,34626.78,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN101189,42051.48,WALLET,NETWORK_ERROR,0,42.0,17661.62,RETRY_LATER,"The failure may be temporary, but the recovery probability is moderate."
+TXN102883,20716.48,NETBANKING,NETWORK_ERROR,0,17.33,3590.86,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN102812,22075.27,NETBANKING,NETWORK_ERROR,0,18.0,3973.55,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN103024,42204.71,WALLET,NETWORK_ERROR,0,43.33,18288.71,RETRY_LATER,"The failure may be temporary, but the recovery probability is moderate."
+TXN104383,42492.14,CARD,TIMEOUT,1,92.0,39092.77,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN100267,44513.02,UPI,NETWORK_ERROR,0,15.33,6825.33,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN103875,23912.28,CARD,TIMEOUT,1,96.67,23115.2,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103553,25402.54,WALLET,NETWORK_ERROR,0,37.33,9483.61,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN104601,41240.39,NETBANKING,NETWORK_ERROR,0,80.67,33267.25,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103881,30604.96,NETBANKING,TIMEOUT,1,93.33,28564.63,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN100606,44045.08,WALLET,TIMEOUT,1,50.0,22022.54,RETRY_LATER,"The failure may be temporary, but the recovery probability is moderate."
+TXN103604,26208.91,UPI,NETWORK_ERROR,0,94.0,24636.38,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103079,26211.4,NETBANKING,TIMEOUT,1,96.67,25337.69,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN104897,28560.71,WALLET,NETWORK_ERROR,0,24.0,6854.57,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN100142,31019.42,CARD,NETWORK_ERROR,0,90.0,27917.48,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103482,41571.05,UPI,TIMEOUT,2,14.0,5819.95,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN103799,35678.86,WALLET,TIMEOUT,2,73.33,26164.5,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103758,39512.19,NETBANKING,BANK_DECLINE,0,97.33,38458.53,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN103530,46310.4,WALLET,NETWORK_ERROR,1,91.33,42296.83,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103923,14744.51,WALLET,TIMEOUT,0,90.0,13270.06,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103536,36155.14,WALLET,NETWORK_ERROR,1,70.0,25308.6,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN102781,48156.14,NETBANKING,TIMEOUT,2,84.0,40451.16,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN102530,34657.95,CARD,TIMEOUT,2,10.67,3696.85,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN102544,38211.67,UPI,TIMEOUT,2,20.67,7897.08,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN101313,30295.72,CARD,TIMEOUT,2,80.0,24236.58,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN101264,27869.6,CARD,BANK_DECLINE,0,77.33,21552.49,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN103899,36691.33,NETBANKING,NETWORK_ERROR,1,37.33,13698.1,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN103876,26870.25,NETBANKING,TIMEOUT,2,30.67,8240.21,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN101971,35851.72,UPI,BANK_DECLINE,0,92.67,33222.59,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN102089,21765.14,WALLET,BANK_DECLINE,0,13.33,2902.02,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN101376,23430.37,WALLET,NETWORK_ERROR,1,90.67,21243.54,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN102261,22244.62,CARD,NETWORK_ERROR,1,80.67,17943.99,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN101735,30956.19,UPI,TIMEOUT,2,94.0,29098.82,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN104882,30466.54,WALLET,NETWORK_ERROR,1,21.33,6499.53,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN101575,41229.56,CARD,NETWORK_ERROR,1,47.33,19515.33,RETRY_LATER,"The failure may be temporary, but the recovery probability is moderate."
+TXN101430,44048.12,NETBANKING,NETWORK_ERROR,1,46.0,20262.14,RETRY_LATER,"The failure may be temporary, but the recovery probability is moderate."
+TXN102029,32425.99,WALLET,NETWORK_ERROR,1,12.67,4107.29,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN101752,22964.83,WALLET,BANK_DECLINE,0,15.33,3521.27,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN104719,39892.16,NETBANKING,NETWORK_ERROR,1,98.0,39094.32,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN102363,11333.26,UPI,TIMEOUT,0,94.67,10728.82,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN102557,39728.81,UPI,NETWORK_ERROR,1,37.33,14832.09,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN104632,34373.68,UPI,BANK_DECLINE,0,94.0,32311.26,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN102166,41447.86,NETBANKING,BANK_DECLINE,0,96.67,40066.26,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN102452,44808.66,UPI,TIMEOUT,2,24.0,10754.08,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN104616,22841.22,NETBANKING,TIMEOUT,2,22.67,5177.34,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN103977,25888.0,NETBANKING,BANK_DECLINE,0,92.0,23816.96,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN104076,28354.62,WALLET,TIMEOUT,2,6.67,1890.31,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN104223,27999.86,WALLET,TIMEOUT,2,6.67,1866.66,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN104155,13446.27,WALLET,TIMEOUT,0,46.67,6274.93,RETRY_LATER,"The failure may be temporary, but the recovery probability is moderate."
+TXN104192,40617.21,UPI,NETWORK_ERROR,1,80.67,32764.55,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN104308,13825.38,NETBANKING,TIMEOUT,0,91.33,12627.18,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN100789,39896.51,NETBANKING,TIMEOUT,2,38.67,15426.65,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN104556,46753.16,WALLET,NETWORK_ERROR,1,94.67,44259.66,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103264,18141.92,WALLET,TIMEOUT,0,94.67,17174.35,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN100864,33452.19,CARD,NETWORK_ERROR,1,44.0,14718.96,RETRY_LATER,"The failure may be temporary, but the recovery probability is moderate."
+TXN100888,19785.53,UPI,TIMEOUT,0,86.67,17147.46,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN100622,29441.31,CARD,BANK_DECLINE,0,94.67,27871.11,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN100609,38569.44,NETBANKING,NETWORK_ERROR,1,94.67,36512.4,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN100570,35200.72,CARD,TIMEOUT,2,11.33,3989.41,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN103663,20213.74,CARD,BANK_DECLINE,0,24.0,4851.3,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN103927,33425.24,WALLET,NETWORK_ERROR,1,22.0,7353.55,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN103953,17996.69,UPI,TIMEOUT,0,43.33,7798.57,RETRY_LATER,"The failure may be temporary, but the recovery probability is moderate."
+TXN104450,41377.81,WALLET,TIMEOUT,2,24.67,10206.53,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN104162,13035.68,UPI,TIMEOUT,0,96.0,12514.25,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN104318,47897.35,UPI,NETWORK_ERROR,1,93.33,44704.19,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN100187,35382.73,WALLET,NETWORK_ERROR,1,32.67,11558.36,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN100395,41666.76,CARD,BANK_DECLINE,0,34.67,14444.48,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN104311,36912.2,NETBANKING,NETWORK_ERROR,1,80.0,29529.76,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN104416,34710.61,WALLET,BANK_DECLINE,0,86.0,29851.12,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN104246,35865.02,WALLET,NETWORK_ERROR,1,70.67,25344.61,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN104147,37710.06,UPI,BANK_DECLINE,0,88.67,33436.25,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN104296,42445.11,NETBANKING,NETWORK_ERROR,1,89.33,37917.63,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN100352,32230.24,NETBANKING,BANK_DECLINE,0,98.0,31585.64,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN104102,33551.56,UPI,BANK_DECLINE,0,95.33,31985.82,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN104436,38660.45,NETBANKING,BANK_DECLINE,0,98.67,38144.98,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN100082,16960.76,WALLET,TIMEOUT,0,92.67,15716.97,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN104840,25675.49,NETBANKING,BANK_DECLINE,0,90.67,23279.11,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN101733,15107.93,WALLET,TIMEOUT,0,90.67,13697.86,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN104933,44907.64,CARD,NETWORK_ERROR,1,88.0,39518.72,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN101573,27295.93,NETBANKING,TIMEOUT,2,77.33,21108.85,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN101845,28169.33,WALLET,NETWORK_ERROR,1,74.67,21033.1,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN101873,37668.26,CARD,NETWORK_ERROR,1,96.67,36412.65,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN101658,27526.88,WALLET,NETWORK_ERROR,1,81.33,22388.53,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN102345,48616.46,NETBANKING,NETWORK_ERROR,1,96.67,46995.91,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN101424,24609.38,UPI,NETWORK_ERROR,1,66.67,16406.25,RETRY_LATER,"The failure may be temporary, but the recovery probability is moderate."
+TXN101291,49031.37,NETBANKING,NETWORK_ERROR,1,94.67,46416.36,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN101414,24525.12,NETBANKING,NETWORK_ERROR,1,88.0,21582.11,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN102271,22357.56,CARD,NETWORK_ERROR,1,42.67,9539.23,RETRY_LATER,"The failure may be temporary, but the recovery probability is moderate."
+TXN101254,47766.99,NETBANKING,TIMEOUT,2,84.0,40124.27,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103098,19117.04,CARD,TIMEOUT,0,94.0,17970.02,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103203,47779.95,NETBANKING,BANK_DECLINE,0,76.67,36631.3,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN103180,29804.33,WALLET,TIMEOUT,2,18.67,5563.47,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN101111,27237.39,CARD,BANK_DECLINE,0,42.0,11439.7,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN101110,27303.5,WALLET,TIMEOUT,2,8.67,2366.3,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN102651,42322.74,CARD,NETWORK_ERROR,1,38.0,16082.64,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN102862,37472.69,NETBANKING,BANK_DECLINE,0,98.0,36723.24,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN102709,37588.85,CARD,NETWORK_ERROR,1,96.67,36335.89,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN102700,32176.93,UPI,TIMEOUT,2,90.67,29173.75,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103989,38697.73,CARD,BANK_DECLINE,1,12.67,4901.71,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN103943,23486.48,UPI,NETWORK_ERROR,2,74.67,17536.57,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103355,32343.76,CARD,TIMEOUT,3,33.33,10781.25,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100687,22786.98,CARD,TIMEOUT,3,74.0,16862.37,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100684,23298.1,NETBANKING,TIMEOUT,3,16.67,3883.02,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103910,45025.38,UPI,TIMEOUT,3,16.0,7204.06,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103730,42519.62,UPI,BANK_DECLINE,1,77.33,32881.84,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN103489,46336.65,CARD,LIMIT_EXCEEDED,0,94.0,43556.45,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN103490,22239.67,CARD,TIMEOUT,3,28.67,6375.37,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103241,15339.85,NETBANKING,TIMEOUT,1,84.0,12885.47,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN104346,25938.9,CARD,BANK_DECLINE,1,33.33,8646.3,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN104334,30506.74,CARD,BANK_DECLINE,1,80.0,24405.39,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN100193,39248.79,UPI,NETWORK_ERROR,2,89.33,35062.25,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN100179,26141.66,CARD,NETWORK_ERROR,2,78.0,20390.49,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN104295,49968.25,WALLET,TIMEOUT,3,28.67,14324.23,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104250,21738.5,UPI,NETWORK_ERROR,2,12.67,2753.54,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN104286,20046.71,CARD,LIMIT_EXCEEDED,0,87.33,17507.46,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN100313,27262.9,WALLET,NETWORK_ERROR,2,19.33,5270.83,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN100056,36315.29,WALLET,TIMEOUT,3,31.33,11378.79,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100092,20079.11,CARD,LIMIT_EXCEEDED,0,34.67,6960.76,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN104986,42809.12,UPI,BANK_DECLINE,1,36.67,15696.68,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN100044,18052.38,UPI,TIMEOUT,1,82.67,14923.3,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN100040,45685.33,CARD,NETWORK_ERROR,2,4.0,1827.41,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN100325,32938.7,WALLET,LIMIT_EXCEEDED,0,76.67,25253.0,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN104451,47179.68,CARD,LIMIT_EXCEEDED,0,96.0,45292.49,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN104454,49182.06,NETBANKING,NETWORK_ERROR,2,15.33,7541.25,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN100304,41249.49,UPI,TIMEOUT,3,66.0,27224.66,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100283,41152.18,WALLET,NETWORK_ERROR,2,79.33,32647.4,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN100438,45714.49,NETBANKING,BANK_DECLINE,1,11.33,5180.98,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN104163,37129.5,UPI,NETWORK_ERROR,2,76.0,28218.42,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN100541,36088.88,NETBANKING,BANK_DECLINE,1,22.67,8180.15,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN100529,12071.23,NETBANKING,NETWORK_ERROR,0,43.33,5230.87,RETRY_LATER,"The failure may be temporary, but the recovery probability is moderate."
+TXN100439,31327.48,WALLET,LIMIT_EXCEEDED,0,36.0,11277.89,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN100593,13031.27,NETBANKING,NETWORK_ERROR,0,42.0,5473.13,RETRY_LATER,"The failure may be temporary, but the recovery probability is moderate."
+TXN100689,45443.42,WALLET,LIMIT_EXCEEDED,0,38.0,17268.5,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN103816,28737.95,UPI,NETWORK_ERROR,2,40.0,11495.18,RETRY_LATER,"The failure may be temporary, but the recovery probability is moderate."
+TXN100716,43539.89,WALLET,TIMEOUT,3,23.33,10159.31,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100458,16887.14,NETBANKING,TIMEOUT,1,92.67,15648.75,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103637,22239.18,NETBANKING,NETWORK_ERROR,2,38.0,8450.89,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN103524,40038.42,NETBANKING,NETWORK_ERROR,2,80.67,32297.66,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN104089,41360.34,CARD,NETWORK_ERROR,2,6.0,2481.62,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN104127,14934.91,NETBANKING,NETWORK_ERROR,0,62.67,9359.21,RETRY_LATER,"The failure may be temporary, but the recovery probability is moderate."
+TXN100905,47543.88,UPI,LIMIT_EXCEEDED,0,86.67,41204.7,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN100878,42595.13,NETBANKING,NETWORK_ERROR,2,31.33,13346.47,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN100876,19898.72,NETBANKING,TIMEOUT,1,92.67,18439.48,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN100858,41786.08,WALLET,TIMEOUT,3,18.67,7800.07,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104545,22633.05,UPI,TIMEOUT,3,66.67,15088.7,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103308,36008.11,WALLET,TIMEOUT,3,10.67,3840.87,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104595,10869.81,UPI,TIMEOUT,1,34.0,3695.74,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN103585,45867.33,CARD,BANK_DECLINE,1,4.0,1834.69,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN100783,46077.44,NETBANKING,LIMIT_EXCEEDED,0,70.67,32561.39,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN103387,32445.13,WALLET,NETWORK_ERROR,2,78.0,25307.2,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103377,47786.42,CARD,BANK_DECLINE,1,8.67,4141.49,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN100625,44864.39,UPI,LIMIT_EXCEEDED,0,78.0,34994.22,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN103473,36565.19,WALLET,TIMEOUT,3,74.67,27302.01,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101109,44924.67,WALLET,NETWORK_ERROR,2,88.0,39533.71,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN101123,27732.37,UPI,NETWORK_ERROR,2,79.33,22001.01,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN102616,45678.84,UPI,TIMEOUT,3,14.67,6699.56,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101007,25033.1,CARD,LIMIT_EXCEEDED,0,11.33,2837.08,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101016,45198.63,CARD,NETWORK_ERROR,2,5.33,2410.59,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN103016,47360.39,CARD,TIMEOUT,3,22.0,10419.29,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103020,47941.39,UPI,LIMIT_EXCEEDED,0,42.0,20135.38,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN103185,33011.64,CARD,LIMIT_EXCEEDED,0,73.33,24208.54,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN103183,30767.94,UPI,BANK_DECLINE,1,35.33,10871.34,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN100959,31286.16,UPI,BANK_DECLINE,1,82.0,25654.65,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN100972,10241.73,CARD,NETWORK_ERROR,0,91.33,9354.11,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN102875,45305.1,WALLET,BANK_DECLINE,1,90.67,41076.62,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN102848,18990.94,CARD,TIMEOUT,1,22.0,4178.01,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN102963,23325.03,UPI,BANK_DECLINE,1,80.0,18660.02,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN102745,24532.77,UPI,NETWORK_ERROR,2,30.67,7523.38,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN102749,22346.29,UPI,NETWORK_ERROR,2,14.0,3128.48,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN101053,48206.89,UPI,BANK_DECLINE,1,18.0,8677.24,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN101080,33860.27,NETBANKING,TIMEOUT,3,75.33,25508.07,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101096,44718.14,CARD,LIMIT_EXCEEDED,0,33.33,14906.05,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN102448,24185.05,NETBANKING,NETWORK_ERROR,2,79.33,19186.81,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN104689,22516.24,UPI,TIMEOUT,3,64.67,14560.5,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102575,43438.58,WALLET,LIMIT_EXCEEDED,0,32.0,13900.35,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN104648,46704.51,UPI,LIMIT_EXCEEDED,0,97.33,45459.06,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN102525,17106.67,NETBANKING,NETWORK_ERROR,0,85.33,14597.69,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN101101,47011.16,NETBANKING,TIMEOUT,3,27.33,12849.72,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102784,37921.95,CARD,BANK_DECLINE,1,22.67,8595.64,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN101935,28319.51,WALLET,NETWORK_ERROR,2,18.67,5286.31,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN102356,45292.35,CARD,NETWORK_ERROR,2,4.67,2113.64,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN101287,28096.72,WALLET,BANK_DECLINE,1,88.0,24725.11,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN102451,47612.12,WALLET,LIMIT_EXCEEDED,0,86.67,41263.84,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN102304,40876.8,WALLET,NETWORK_ERROR,2,44.0,17985.79,RETRY_LATER,"The failure may be temporary, but the recovery probability is moderate."
+TXN102234,16416.34,UPI,NETWORK_ERROR,0,91.33,14993.59,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN102224,42903.57,WALLET,NETWORK_ERROR,2,92.0,39471.28,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN101301,23086.75,NETBANKING,NETWORK_ERROR,2,49.33,11389.46,RETRY_LATER,"The failure may be temporary, but the recovery probability is moderate."
+TXN101296,14645.7,NETBANKING,TIMEOUT,1,66.67,9763.8,RETRY_LATER,"The failure may be temporary, but the recovery probability is moderate."
+TXN101980,22618.5,CARD,LIMIT_EXCEEDED,0,8.0,1809.48,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101967,32874.57,UPI,TIMEOUT,3,91.33,30025.44,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101915,42415.29,UPI,TIMEOUT,3,70.0,29690.7,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101589,38780.75,WALLET,TIMEOUT,3,32.0,12409.84,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101851,28767.13,NETBANKING,TIMEOUT,3,24.67,7095.89,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101847,32989.05,WALLET,LIMIT_EXCEEDED,0,76.67,25291.61,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101638,10985.44,NETBANKING,TIMEOUT,1,18.67,2050.62,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN101612,20074.93,CARD,LIMIT_EXCEEDED,0,76.0,15256.95,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101435,35654.94,UPI,NETWORK_ERROR,2,43.33,15450.47,RETRY_LATER,"The failure may be temporary, but the recovery probability is moderate."
+TXN101559,23037.09,CARD,LIMIT_EXCEEDED,0,8.0,1842.97,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101710,42450.77,CARD,LIMIT_EXCEEDED,0,19.33,8207.15,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101539,14921.94,CARD,TIMEOUT,1,17.33,2586.47,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN100238,39209.73,WALLET,BANK_DECLINE,1,90.0,35288.76,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN104937,29436.27,CARD,NETWORK_ERROR,2,31.33,9223.36,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN104859,32651.1,UPI,NETWORK_ERROR,2,80.0,26120.88,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN104895,28929.4,WALLET,TIMEOUT,3,8.67,2507.21,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104997,41461.85,UPI,NETWORK_ERROR,3,28.67,11885.73,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104981,19807.85,NETBANKING,NETWORK_ERROR,1,93.33,18487.33,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN100069,15833.54,UPI,BANK_DECLINE,0,89.33,14144.63,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN104911,40758.08,CARD,INSUFFICIENT_FUNDS,0,29.33,11955.7,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN104503,10710.19,CARD,TIMEOUT,2,95.33,10210.38,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN104507,38042.64,UPI,INSUFFICIENT_FUNDS,0,24.67,9383.85,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN104324,34062.39,NETBANKING,LIMIT_EXCEEDED,1,10.67,3633.32,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN104405,27169.23,WALLET,LIMIT_EXCEEDED,1,16.67,4528.2,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101445,33177.49,UPI,INSUFFICIENT_FUNDS,0,72.0,23887.79,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN101713,22127.13,WALLET,NETWORK_ERROR,3,80.67,17849.22,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100111,39813.38,WALLET,NETWORK_ERROR,3,17.33,6900.99,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100440,20432.74,NETBANKING,BANK_DECLINE,2,14.0,2860.58,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN100299,33543.66,UPI,LIMIT_EXCEEDED,1,7.33,2459.87,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN100301,25542.09,UPI,INSUFFICIENT_FUNDS,0,31.33,8003.19,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN104143,15373.09,WALLET,TIMEOUT,2,82.67,12708.42,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN104175,38517.49,WALLET,LIMIT_EXCEEDED,1,6.0,2311.05,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN104214,26852.48,NETBANKING,NETWORK_ERROR,3,76.67,20586.9,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100523,43756.78,WALLET,INSUFFICIENT_FUNDS,0,3.33,1458.56,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN100389,41759.43,WALLET,LIMIT_EXCEEDED,1,1.33,556.79,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN104066,42511.43,NETBANKING,BANK_DECLINE,2,16.0,6801.83,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN104085,26920.1,CARD,INSUFFICIENT_FUNDS,0,74.67,20100.34,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN101794,40284.62,NETBANKING,INSUFFICIENT_FUNDS,0,6.67,2685.64,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN101895,35327.44,CARD,LIMIT_EXCEEDED,1,36.67,12953.39,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101602,27055.07,WALLET,LIMIT_EXCEEDED,1,12.0,3246.61,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101579,25667.11,WALLET,BANK_DECLINE,2,14.0,3593.4,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN101583,47012.51,NETBANKING,NETWORK_ERROR,3,80.0,37610.01,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104112,32707.21,CARD,BANK_DECLINE,2,74.67,24421.38,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN103957,41186.28,WALLET,BANK_DECLINE,2,14.67,6040.65,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN103975,11158.84,UPI,TIMEOUT,2,82.0,9150.25,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103853,39837.39,CARD,LIMIT_EXCEEDED,1,26.67,10623.3,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN100573,10999.54,CARD,BANK_DECLINE,0,35.33,3886.5,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN100588,17546.04,CARD,TIMEOUT,2,96.0,16844.2,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN100596,49692.63,CARD,BANK_DECLINE,2,73.33,36441.26,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN100714,48571.4,NETBANKING,NETWORK_ERROR,3,40.67,19752.37,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100545,34062.25,UPI,LIMIT_EXCEEDED,1,6.0,2043.74,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN100565,25326.53,WALLET,NETWORK_ERROR,3,22.0,5571.84,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100568,16235.6,WALLET,NETWORK_ERROR,1,46.0,7468.38,RETRY_LATER,"The failure may be temporary, but the recovery probability is moderate."
+TXN103813,10724.05,WALLET,NETWORK_ERROR,1,95.33,10223.59,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103823,18317.14,NETBANKING,TIMEOUT,2,82.67,15142.17,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN102118,27313.01,CARD,INSUFFICIENT_FUNDS,0,33.33,9104.34,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN102140,41981.42,CARD,BANK_DECLINE,2,6.0,2518.89,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN102006,31584.4,UPI,BANK_DECLINE,2,9.33,2947.88,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN101757,17715.58,CARD,BANK_DECLINE,0,84.67,14999.19,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN101766,22327.36,CARD,NETWORK_ERROR,3,82.67,18457.28,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103845,36933.83,CARD,LIMIT_EXCEEDED,1,73.33,27084.81,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN103850,42238.1,CARD,INSUFFICIENT_FUNDS,0,28.67,12108.26,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN103641,24529.52,UPI,BANK_DECLINE,2,10.67,2616.48,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN103664,20748.27,WALLET,INSUFFICIENT_FUNDS,0,20.0,4149.65,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN103675,20455.86,UPI,NETWORK_ERROR,3,16.0,3272.94,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103559,13849.35,WALLET,BANK_DECLINE,0,85.33,11818.11,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN103597,13315.04,UPI,NETWORK_ERROR,1,85.33,11362.17,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103374,41252.15,CARD,BANK_DECLINE,2,6.67,2750.14,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN100772,15843.81,NETBANKING,NETWORK_ERROR,1,96.67,15315.68,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN101503,40144.23,UPI,BANK_DECLINE,2,12.0,4817.31,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN101373,46480.96,WALLET,LIMIT_EXCEEDED,1,37.33,17352.89,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101393,7102.94,WALLET,TIMEOUT,0,81.33,5777.06,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN102084,33633.35,NETBANKING,NETWORK_ERROR,3,20.0,6726.67,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100798,26886.62,CARD,BANK_DECLINE,2,31.33,8424.47,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN100810,17604.17,UPI,TIMEOUT,2,95.33,16782.64,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN100626,30625.09,NETBANKING,LIMIT_EXCEEDED,1,17.33,5308.35,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN103474,44363.28,CARD,INSUFFICIENT_FUNDS,0,14.67,6506.61,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN103505,29367.98,NETBANKING,NETWORK_ERROR,3,24.0,7048.32,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103219,47417.77,CARD,NETWORK_ERROR,3,8.0,3793.42,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104614,26213.71,UPI,LIMIT_EXCEEDED,1,7.33,1922.34,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN100902,30296.71,CARD,NETWORK_ERROR,3,25.33,7675.17,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100903,34876.05,WALLET,INSUFFICIENT_FUNDS,0,6.67,2325.07,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN100747,33275.09,CARD,INSUFFICIENT_FUNDS,0,23.33,7764.19,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN100748,20436.83,CARD,NETWORK_ERROR,3,77.33,15804.48,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103157,14580.75,UPI,NETWORK_ERROR,1,90.67,13219.88,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103207,45623.82,UPI,BANK_DECLINE,2,9.33,4258.22,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN100958,43300.77,WALLET,LIMIT_EXCEEDED,1,3.33,1443.36,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101282,32406.38,CARD,BANK_DECLINE,2,76.0,24628.85,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN102197,21591.8,NETBANKING,INSUFFICIENT_FUNDS,0,8.67,1871.29,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN102054,15217.9,NETBANKING,TIMEOUT,2,34.67,5275.54,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN102059,12805.7,WALLET,BANK_DECLINE,0,82.67,10586.05,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN100988,44338.88,CARD,BANK_DECLINE,2,5.33,2364.74,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN100992,42479.99,UPI,NETWORK_ERROR,3,70.0,29735.99,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100854,49964.19,WALLET,LIMIT_EXCEEDED,1,30.0,14989.26,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN103100,33784.92,CARD,NETWORK_ERROR,3,16.67,5630.82,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102930,34242.36,UPI,LIMIT_EXCEEDED,1,6.67,2282.82,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN102948,15549.98,UPI,TIMEOUT,2,95.33,14824.31,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN102952,14976.68,NETBANKING,TIMEOUT,2,34.0,5092.07,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN102719,28435.97,CARD,INSUFFICIENT_FUNDS,0,13.33,3791.46,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN101043,46318.76,UPI,BANK_DECLINE,2,69.33,32114.34,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN101209,45498.93,UPI,NETWORK_ERROR,3,28.0,12739.7,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101241,37827.16,NETBANKING,INSUFFICIENT_FUNDS,0,6.67,2521.81,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN102750,42510.21,UPI,LIMIT_EXCEEDED,1,73.33,31174.15,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN102768,45340.03,WALLET,LIMIT_EXCEEDED,1,8.0,3627.2,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN102286,18205.86,CARD,NETWORK_ERROR,1,97.33,17720.37,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN102290,20311.9,UPI,NETWORK_ERROR,3,16.0,3249.9,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102297,48832.5,WALLET,LIMIT_EXCEEDED,1,72.0,35159.4,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN102319,31807.79,CARD,LIMIT_EXCEEDED,1,82.0,26082.39,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN102344,33863.71,CARD,BANK_DECLINE,2,26.67,9030.32,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN101419,46613.52,CARD,BANK_DECLINE,2,12.67,5904.38,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN102607,41145.42,UPI,BANK_DECLINE,2,11.33,4663.15,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN102675,12599.6,WALLET,NETWORK_ERROR,1,96.0,12095.62,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN102453,25518.71,NETBANKING,NETWORK_ERROR,3,34.67,8846.49,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104738,13798.84,WALLET,NETWORK_ERROR,1,80.0,11039.07,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN104745,29403.27,UPI,BANK_DECLINE,2,3.33,980.11,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN102419,17786.55,UPI,TIMEOUT,2,95.33,16956.51,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN104430,46267.38,NETBANKING,INSUFFICIENT_FUNDS,0,5.33,2467.59,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN104438,20223.26,WALLET,INSUFFICIENT_FUNDS,0,67.33,13617.0,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN100310,45562.59,UPI,BANK_DECLINE,2,9.33,4252.51,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN100323,41009.95,CARD,NETWORK_ERROR,3,10.67,4374.39,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104938,25537.56,CARD,BANK_DECLINE,2,29.33,7491.02,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN104947,41581.25,NETBANKING,NETWORK_ERROR,3,90.67,37700.33,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104973,21428.33,WALLET,INSUFFICIENT_FUNDS,0,6.67,1428.56,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN104860,41227.38,CARD,INSUFFICIENT_FUNDS,0,73.33,30233.41,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN104362,19630.74,UPI,NETWORK_ERROR,2,20.67,4057.02,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN104400,9653.33,NETBANKING,TIMEOUT,1,6.0,579.2,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN101727,19568.76,WALLET,NETWORK_ERROR,2,84.67,16568.22,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN101553,38811.51,UPI,INSUFFICIENT_FUNDS,1,17.33,6727.33,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN104696,41752.22,WALLET,BANK_DECLINE,3,20.0,8350.44,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104977,35310.73,CARD,BANK_DECLINE,3,91.33,32250.47,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104429,44239.55,UPI,BANK_DECLINE,3,44.0,19465.4,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104446,35729.32,WALLET,LIMIT_EXCEEDED,2,34.67,12386.16,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN100131,36619.0,UPI,BANK_DECLINE,3,82.0,30027.58,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104252,22850.48,CARD,LIMIT_EXCEEDED,2,84.67,19346.74,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN104298,33106.2,UPI,BANK_DECLINE,3,80.0,26484.96,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100428,36597.55,WALLET,LIMIT_EXCEEDED,2,21.33,7807.48,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN100248,17528.49,WALLET,TIMEOUT,3,10.0,1752.85,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100286,46367.8,UPI,BANK_DECLINE,3,29.33,13601.22,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104201,10874.71,UPI,LIMIT_EXCEEDED,0,25.33,2754.93,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN104065,40288.95,WALLET,LIMIT_EXCEEDED,2,7.33,2954.52,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN100339,46085.56,WALLET,INSUFFICIENT_FUNDS,1,16.67,7680.93,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN104634,38304.9,CARD,INSUFFICIENT_FUNDS,1,38.0,14555.86,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN104672,49533.08,NETBANKING,BANK_DECLINE,3,90.0,44579.77,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104694,23258.51,NETBANKING,LIMIT_EXCEEDED,2,79.33,18451.75,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101316,28583.45,CARD,INSUFFICIENT_FUNDS,1,36.0,10290.04,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN104726,44651.86,CARD,BANK_DECLINE,3,83.33,37209.88,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104727,30467.09,CARD,BANK_DECLINE,3,30.67,9343.24,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104734,45701.25,WALLET,BANK_DECLINE,3,14.67,6702.85,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104095,11240.12,UPI,LIMIT_EXCEEDED,0,26.67,2997.37,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101634,16135.12,WALLET,TIMEOUT,3,12.0,1936.21,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101565,33997.35,WALLET,BANK_DECLINE,3,12.0,4079.68,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101566,44981.18,NETBANKING,LIMIT_EXCEEDED,2,92.0,41382.69,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN104113,43606.01,WALLET,LIMIT_EXCEEDED,2,13.33,5814.13,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN103991,10380.46,WALLET,NETWORK_ERROR,2,72.0,7473.93,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103992,15114.97,UPI,TIMEOUT,3,31.33,4736.02,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103869,22702.68,WALLET,BANK_DECLINE,3,82.0,18616.2,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103912,42158.04,UPI,LIMIT_EXCEEDED,2,38.0,16020.06,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN103791,21862.8,UPI,BANK_DECLINE,3,87.33,19093.51,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100476,5693.65,NETBANKING,NETWORK_ERROR,0,92.0,5238.16,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN100483,49064.36,WALLET,INSUFFICIENT_FUNDS,1,22.67,11121.25,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN100494,21924.72,NETBANKING,INSUFFICIENT_FUNDS,1,11.33,2484.8,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN100514,18223.68,NETBANKING,BANK_DECLINE,1,82.0,14943.42,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN100670,40451.63,WALLET,INSUFFICIENT_FUNDS,1,24.0,9708.39,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN102638,47072.9,NETBANKING,INSUFFICIENT_FUNDS,1,5.33,2510.55,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN102667,10476.24,CARD,LIMIT_EXCEEDED,0,75.33,7892.1,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN102677,14611.3,UPI,NETWORK_ERROR,2,74.67,10909.77,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN102706,44348.29,NETBANKING,BANK_DECLINE,3,95.33,42278.7,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102455,42818.45,NETBANKING,INSUFFICIENT_FUNDS,1,3.33,1427.28,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN102485,16695.69,NETBANKING,LIMIT_EXCEEDED,0,100.0,16695.69,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN102495,14328.85,CARD,BANK_DECLINE,1,76.0,10889.93,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN100553,6927.72,NETBANKING,TIMEOUT,1,7.33,508.03,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN100559,7815.65,CARD,NETWORK_ERROR,0,93.33,7294.61,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103826,13454.14,WALLET,LIMIT_EXCEEDED,0,54.0,7265.24,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN103827,21986.13,CARD,INSUFFICIENT_FUNDS,1,80.67,17735.48,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN103839,10728.96,UPI,NETWORK_ERROR,2,28.0,3004.11,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN101940,42388.92,CARD,BANK_DECLINE,3,82.67,35041.51,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101988,46594.61,CARD,LIMIT_EXCEEDED,2,70.0,32616.23,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN102036,46319.45,NETBANKING,LIMIT_EXCEEDED,2,41.33,19145.37,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101749,32398.46,NETBANKING,LIMIT_EXCEEDED,2,28.0,9071.57,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN102767,15091.34,NETBANKING,NETWORK_ERROR,2,53.33,8048.71,RETRY_LATER,"The failure may be temporary, but the recovery probability is moderate."
+TXN102445,6737.62,UPI,NETWORK_ERROR,0,38.67,2605.21,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN102266,19175.32,UPI,TIMEOUT,3,16.67,3195.89,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102163,10276.09,CARD,BANK_DECLINE,1,92.0,9454.0,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN101417,45360.48,UPI,INSUFFICIENT_FUNDS,1,73.33,33264.35,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN103659,21862.37,WALLET,BANK_DECLINE,3,43.33,9473.69,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103513,37089.36,NETBANKING,INSUFFICIENT_FUNDS,1,4.67,1730.84,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN103557,35274.14,WALLET,INSUFFICIENT_FUNDS,1,73.33,25867.7,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN103591,20032.89,NETBANKING,BANK_DECLINE,3,4.67,934.87,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103370,15879.02,NETBANKING,LIMIT_EXCEEDED,0,100.0,15879.02,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN100768,34091.66,NETBANKING,BANK_DECLINE,3,79.33,27046.05,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101499,33499.03,CARD,LIMIT_EXCEEDED,2,11.33,3796.56,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101366,46049.34,NETBANKING,LIMIT_EXCEEDED,2,84.0,38681.45,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101377,28960.2,WALLET,LIMIT_EXCEEDED,2,44.0,12742.49,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101046,16034.5,CARD,LIMIT_EXCEEDED,0,82.0,13148.29,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101086,49161.07,CARD,LIMIT_EXCEEDED,2,27.33,13437.36,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101165,40232.59,WALLET,INSUFFICIENT_FUNDS,1,24.0,9655.82,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN101180,23820.98,CARD,INSUFFICIENT_FUNDS,1,81.33,19374.4,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN101185,16696.55,NETBANKING,BANK_DECLINE,1,82.0,13691.17,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN102072,29971.65,NETBANKING,BANK_DECLINE,3,18.67,5594.71,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100802,15924.39,NETBANKING,LIMIT_EXCEEDED,0,100.0,15924.39,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN100811,27128.21,WALLET,LIMIT_EXCEEDED,2,84.67,22968.55,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN100644,13915.41,CARD,LIMIT_EXCEEDED,0,42.67,5937.24,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN100648,32188.85,CARD,BANK_DECLINE,3,78.67,25321.9,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103217,25626.9,NETBANKING,BANK_DECLINE,3,3.33,854.23,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103257,22042.37,CARD,LIMIT_EXCEEDED,2,32.67,7200.51,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN103269,32828.52,CARD,LIMIT_EXCEEDED,2,15.33,5033.71,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN103320,8664.6,WALLET,TIMEOUT,1,14.67,1270.81,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN102937,15661.35,UPI,BANK_DECLINE,1,79.33,12424.67,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN102998,25450.39,UPI,LIMIT_EXCEEDED,2,32.67,8313.79,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN102845,17381.41,WALLET,BANK_DECLINE,1,78.0,13557.5,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN102851,24319.49,NETBANKING,BANK_DECLINE,3,8.0,1945.56,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102853,27636.41,WALLET,BANK_DECLINE,3,29.33,8106.68,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102872,20882.02,NETBANKING,BANK_DECLINE,3,4.67,974.49,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102735,17819.92,CARD,BANK_DECLINE,1,91.33,16275.53,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN103324,34415.01,CARD,BANK_DECLINE,3,91.33,31432.38,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104518,28725.46,UPI,INSUFFICIENT_FUNDS,1,77.33,22214.36,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN104555,43004.05,CARD,LIMIT_EXCEEDED,2,23.33,10034.28,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN100730,34620.09,CARD,BANK_DECLINE,3,90.67,31388.88,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103160,30711.91,NETBANKING,INSUFFICIENT_FUNDS,1,7.33,2252.21,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN103206,37816.71,CARD,INSUFFICIENT_FUNDS,1,80.0,30253.37,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN103008,48094.75,CARD,BANK_DECLINE,3,33.33,16031.58,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100982,43166.38,CARD,INSUFFICIENT_FUNDS,1,79.33,34245.33,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN101244,21709.9,WALLET,BANK_DECLINE,3,84.67,18381.05,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102221,47387.62,CARD,INSUFFICIENT_FUNDS,1,37.33,17691.38,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN100984,13947.82,WALLET,BANK_DECLINE,1,32.67,4556.29,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN101022,29288.85,CARD,BANK_DECLINE,3,28.67,8396.14,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101034,13639.29,UPI,TIMEOUT,3,76.67,10456.79,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103076,29368.06,WALLET,LIMIT_EXCEEDED,2,82.0,24081.81,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN102897,38535.66,UPI,INSUFFICIENT_FUNDS,1,17.33,6679.51,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN100062,22661.14,CARD,BANK_DECLINE,3,26.0,5891.9,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100073,21171.5,CARD,BANK_DECLINE,3,18.67,3952.01,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100175,16063.73,NETBANKING,TIMEOUT,3,8.0,1285.1,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100190,10142.15,CARD,NETWORK_ERROR,2,86.67,8789.86,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN100211,40923.38,NETBANKING,BANK_DECLINE,3,97.33,39832.09,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104481,10120.27,UPI,BANK_DECLINE,1,18.0,1821.65,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN100315,38548.18,NETBANKING,INSUFFICIENT_FUNDS,1,2.0,770.96,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN104959,45501.2,CARD,LIMIT_EXCEEDED,2,25.33,11526.97,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN100215,13157.62,UPI,BANK_DECLINE,1,16.0,2105.22,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN100228,24370.01,CARD,LIMIT_EXCEEDED,2,94.67,23070.28,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN104842,12374.78,UPI,BANK_DECLINE,1,14.67,1814.97,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN100230,19878.39,WALLET,BANK_DECLINE,2,82.67,16432.8,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN100138,35349.26,NETBANKING,LIMIT_EXCEEDED,3,6.0,2120.96,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104342,7677.27,UPI,TIMEOUT,2,74.0,5681.18,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN104928,48374.42,UPI,INSUFFICIENT_FUNDS,2,65.33,31604.62,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN100852,18488.66,UPI,NETWORK_ERROR,3,70.0,12942.06,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102901,17002.79,NETBANKING,NETWORK_ERROR,3,54.67,9294.86,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103089,47579.91,WALLET,LIMIT_EXCEEDED,3,11.33,5392.39,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103086,5365.68,WALLET,BANK_DECLINE,0,45.33,2432.44,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN103084,27721.35,CARD,INSUFFICIENT_FUNDS,2,10.0,2772.14,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN103072,17201.01,NETBANKING,NETWORK_ERROR,3,54.67,9403.22,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104893,49205.47,UPI,INSUFFICIENT_FUNDS,2,72.67,35755.97,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN104903,28009.0,NETBANKING,LIMIT_EXCEEDED,3,0.0,0.0,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100185,1732.84,UPI,TIMEOUT,0,87.33,1513.35,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103286,5019.69,UPI,TIMEOUT,2,75.33,3781.5,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103304,23445.34,WALLET,LIMIT_EXCEEDED,3,11.33,2657.14,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104586,10481.51,CARD,NETWORK_ERROR,3,22.67,2375.81,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102917,49073.53,WALLET,LIMIT_EXCEEDED,3,14.0,6870.29,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102804,475.65,WALLET,TIMEOUT,0,78.0,371.01,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN102949,43514.86,CARD,INSUFFICIENT_FUNDS,2,5.33,2320.79,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN102820,49768.08,UPI,INSUFFICIENT_FUNDS,2,29.33,14598.64,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN103330,8523.16,NETBANKING,NETWORK_ERROR,1,92.0,7841.31,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN100915,10294.64,UPI,INSUFFICIENT_FUNDS,0,4.0,411.79,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN104593,28859.64,UPI,INSUFFICIENT_FUNDS,2,10.0,2885.96,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN101299,47074.0,UPI,INSUFFICIENT_FUNDS,2,62.67,29499.71,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN103177,43872.61,UPI,LIMIT_EXCEEDED,3,2.0,877.45,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102215,6233.33,UPI,TIMEOUT,2,85.33,5319.11,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN102187,16708.61,UPI,BANK_DECLINE,2,36.0,6015.1,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN101491,25534.47,WALLET,LIMIT_EXCEEDED,3,3.33,851.15,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100995,38773.08,WALLET,INSUFFICIENT_FUNDS,2,84.67,32827.87,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN101084,14714.69,UPI,LIMIT_EXCEEDED,1,11.33,1667.66,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101076,22376.07,NETBANKING,INSUFFICIENT_FUNDS,2,71.33,15961.6,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN101045,15288.88,CARD,NETWORK_ERROR,3,70.67,10804.14,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103336,5976.82,CARD,TIMEOUT,2,39.33,2350.88,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN103420,9437.47,CARD,TIMEOUT,2,80.0,7549.98,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103462,29748.89,UPI,INSUFFICIENT_FUNDS,2,4.67,1388.28,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN100797,27729.05,UPI,LIMIT_EXCEEDED,3,3.33,924.3,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101497,28748.6,NETBANKING,LIMIT_EXCEEDED,3,0.0,0.0,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101178,11709.19,CARD,NETWORK_ERROR,3,21.33,2497.96,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100956,16006.35,CARD,INSUFFICIENT_FUNDS,0,55.33,8856.85,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN101197,37411.89,WALLET,LIMIT_EXCEEDED,3,2.67,997.65,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102078,18741.96,CARD,NETWORK_ERROR,3,84.67,15868.19,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103266,34015.88,WALLET,LIMIT_EXCEEDED,3,6.0,2040.95,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100807,34100.38,CARD,LIMIT_EXCEEDED,3,78.0,26598.3,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100526,24812.29,NETBANKING,INSUFFICIENT_FUNDS,2,86.67,21503.98,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN100534,7794.53,CARD,BANK_DECLINE,0,23.33,1818.72,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN104304,10444.71,WALLET,BANK_DECLINE,2,22.67,2367.47,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN100408,14662.93,WALLET,INSUFFICIENT_FUNDS,0,14.67,2150.56,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN100243,12403.46,CARD,LIMIT_EXCEEDED,1,75.33,9343.94,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101536,14664.88,NETBANKING,BANK_DECLINE,2,4.0,586.6,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN101528,7812.7,UPI,NETWORK_ERROR,1,78.67,6145.99,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN104370,22594.8,NETBANKING,LIMIT_EXCEEDED,3,2.67,602.53,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104411,13039.16,NETBANKING,INSUFFICIENT_FUNDS,0,8.0,1043.13,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN101726,19856.83,UPI,BANK_DECLINE,2,78.0,15488.33,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN104807,41790.04,UPI,INSUFFICIENT_FUNDS,2,6.67,2786.0,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN104441,41120.51,CARD,INSUFFICIENT_FUNDS,2,1.33,548.27,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN102430,19626.2,UPI,INSUFFICIENT_FUNDS,0,0.0,0.0,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN102443,21307.46,CARD,LIMIT_EXCEEDED,3,17.33,3693.29,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104710,10232.82,UPI,NETWORK_ERROR,3,10.0,1023.28,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104976,33843.51,CARD,LIMIT_EXCEEDED,3,28.67,9701.81,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104472,25858.71,WALLET,INSUFFICIENT_FUNDS,2,36.0,9309.14,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN103966,16480.19,UPI,INSUFFICIENT_FUNDS,0,0.67,109.87,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN102492,6907.88,CARD,NETWORK_ERROR,1,92.0,6355.25,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN102465,15900.17,NETBANKING,NETWORK_ERROR,3,50.67,8056.09,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100678,11850.27,CARD,INSUFFICIENT_FUNDS,0,76.67,9085.21,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN102630,19787.81,CARD,LIMIT_EXCEEDED,1,26.67,5276.75,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN100510,14180.2,NETBANKING,LIMIT_EXCEEDED,1,32.67,4632.2,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN100653,26729.22,NETBANKING,INSUFFICIENT_FUNDS,2,86.67,23165.32,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN100659,48354.27,CARD,LIMIT_EXCEEDED,3,8.67,4190.7,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100664,39086.62,NETBANKING,LIMIT_EXCEEDED,3,4.67,1824.04,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101440,41039.3,CARD,INSUFFICIENT_FUNDS,2,1.33,547.19,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN101432,15000.44,UPI,INSUFFICIENT_FUNDS,0,0.67,100.0,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN101571,9016.42,NETBANKING,TIMEOUT,2,6.0,540.99,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN101838,41068.11,CARD,LIMIT_EXCEEDED,3,24.67,10130.13,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103944,14643.98,UPI,INSUFFICIENT_FUNDS,0,0.67,97.63,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN102123,19411.82,UPI,NETWORK_ERROR,3,22.67,4400.01,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102549,11284.86,WALLET,BANK_DECLINE,2,27.33,3084.53,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN102522,36524.77,WALLET,LIMIT_EXCEEDED,3,2.67,973.99,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102275,42477.64,UPI,INSUFFICIENT_FUNDS,2,8.67,3681.4,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN102262,29438.3,UPI,LIMIT_EXCEEDED,3,3.33,981.28,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101746,8254.86,NETBANKING,TIMEOUT,2,5.33,440.26,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN101984,22278.25,NETBANKING,LIMIT_EXCEEDED,3,2.0,445.56,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102101,8651.45,NETBANKING,TIMEOUT,2,6.0,519.09,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN101428,45550.34,UPI,LIMIT_EXCEEDED,3,0.67,303.67,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102796,227.08,NETBANKING,TIMEOUT,0,80.0,181.66,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN102349,15123.2,UPI,NETWORK_ERROR,3,26.67,4032.85,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103849,5071.73,WALLET,BANK_DECLINE,0,71.33,3617.83,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN102354,41373.98,CARD,INSUFFICIENT_FUNDS,2,2.67,1103.31,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN103657,40935.89,CARD,INSUFFICIENT_FUNDS,2,0.67,272.91,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN103700,14532.03,NETBANKING,LIMIT_EXCEEDED,1,21.33,3100.17,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN103531,5299.74,NETBANKING,TIMEOUT,2,77.33,4098.47,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103551,36556.89,WALLET,LIMIT_EXCEEDED,3,2.67,974.85,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103562,37960.69,UPI,LIMIT_EXCEEDED,3,4.0,1518.43,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103583,35392.06,WALLET,LIMIT_EXCEEDED,3,2.0,707.84,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104783,28588.18,WALLET,LIMIT_EXCEEDED,3,2.0,571.76,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100095,19843.54,UPI,BANK_DECLINE,2,78.0,15477.96,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN104227,6016.72,CARD,NETWORK_ERROR,1,88.0,5294.71,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN100521,43319.15,WALLET,LIMIT_EXCEEDED,3,0.0,0.0,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104173,8706.51,NETBANKING,TIMEOUT,2,6.0,522.39,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN100261,18122.97,CARD,BANK_DECLINE,2,80.0,14498.38,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN100273,5770.16,WALLET,TIMEOUT,2,23.33,1346.37,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN104144,12445.07,NETBANKING,BANK_DECLINE,2,2.67,331.87,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN104764,604.15,NETBANKING,TIMEOUT,0,36.67,221.52,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN104741,8793.73,UPI,NETWORK_ERROR,1,46.67,4103.74,RETRY_LATER,"The failure may be temporary, but the recovery probability is moderate."
+TXN104692,3099.73,WALLET,TIMEOUT,0,32.67,1012.58,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN101319,36614.29,UPI,INSUFFICIENT_FUNDS,2,3.33,1220.48,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN100350,49034.48,CARD,INSUFFICIENT_FUNDS,2,12.67,6211.03,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN100340,35498.67,UPI,LIMIT_EXCEEDED,3,5.33,1893.26,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104776,46902.25,WALLET,INSUFFICIENT_FUNDS,2,51.33,24076.49,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN104070,35897.75,WALLET,LIMIT_EXCEEDED,3,1.33,478.64,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104178,2699.69,UPI,TIMEOUT,0,90.0,2429.72,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN100882,23429.53,NETBANKING,INSUFFICIENT_FUNDS,3,3.33,780.98,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102649,2244.11,CARD,NETWORK_ERROR,0,40.67,912.6,RETRY_LATER,"The failure may be temporary, but the recovery probability is moderate."
+TXN104894,3843.63,UPI,TIMEOUT,1,93.33,3587.39,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN100338,12744.67,UPI,LIMIT_EXCEEDED,2,6.0,764.68,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101467,9403.77,UPI,LIMIT_EXCEEDED,0,22.67,2131.52,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101531,26035.29,NETBANKING,INSUFFICIENT_FUNDS,3,3.33,867.84,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104313,26328.45,UPI,INSUFFICIENT_FUNDS,3,0.67,175.52,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104728,9986.96,CARD,TIMEOUT,3,26.67,2663.19,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104753,19724.59,CARD,BANK_DECLINE,3,17.33,3418.93,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100355,8249.23,CARD,TIMEOUT,3,35.33,2914.73,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103980,42296.39,WALLET,INSUFFICIENT_FUNDS,3,20.67,8741.25,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104049,8080.85,CARD,LIMIT_EXCEEDED,0,16.67,1346.81,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN103946,23454.96,UPI,INSUFFICIENT_FUNDS,3,0.0,0.0,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101904,12419.67,CARD,INSUFFICIENT_FUNDS,1,26.67,3311.91,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN104156,13195.84,UPI,INSUFFICIENT_FUNDS,1,10.67,1407.56,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN102051,13517.29,UPI,BANK_DECLINE,3,24.67,3334.26,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102211,18502.94,UPI,BANK_DECLINE,3,42.0,7771.23,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100070,3693.63,NETBANKING,NETWORK_ERROR,0,90.67,3348.89,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN104487,10888.0,CARD,BANK_DECLINE,3,80.0,8710.4,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104941,9684.89,WALLET,NETWORK_ERROR,2,27.33,2647.2,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN104966,18036.78,WALLET,LIMIT_EXCEEDED,2,33.33,6012.26,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN104953,13590.26,WALLET,BANK_DECLINE,3,23.33,3171.06,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100213,36966.5,WALLET,INSUFFICIENT_FUNDS,3,10.0,3696.65,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100206,16197.22,NETBANKING,INSUFFICIENT_FUNDS,1,2.67,431.93,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN104880,39000.32,WALLET,INSUFFICIENT_FUNDS,3,75.33,29380.24,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103027,11252.11,UPI,INSUFFICIENT_FUNDS,1,13.33,1500.28,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN104877,4475.74,WALLET,TIMEOUT,1,29.33,1312.88,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN100846,5480.71,NETBANKING,LIMIT_EXCEEDED,0,89.33,4896.1,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101360,3326.27,UPI,TIMEOUT,1,92.67,3082.34,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103352,36486.51,WALLET,INSUFFICIENT_FUNDS,3,9.33,3405.41,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101506,4993.45,CARD,NETWORK_ERROR,0,63.33,3162.52,RETRY_LATER,"The failure may be temporary, but the recovery probability is moderate."
+TXN104850,11917.56,NETBANKING,BANK_DECLINE,3,6.67,794.5,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104995,8469.8,NETBANKING,BANK_DECLINE,1,23.33,1976.29,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN104564,4574.36,UPI,TIMEOUT,1,94.67,4330.39,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103190,8411.73,CARD,NETWORK_ERROR,2,87.33,7346.24,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN102170,11689.5,NETBANKING,LIMIT_EXCEEDED,2,31.33,3662.71,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN104515,17188.04,UPI,INSUFFICIENT_FUNDS,1,8.67,1489.63,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN102205,16881.42,WALLET,BANK_DECLINE,3,17.33,2926.11,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100732,18818.35,CARD,LIMIT_EXCEEDED,2,12.0,2258.2,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN102923,9555.32,UPI,NETWORK_ERROR,2,24.67,2356.98,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN104536,30934.29,CARD,INSUFFICIENT_FUNDS,3,2.67,824.91,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100818,13010.27,NETBANKING,INSUFFICIENT_FUNDS,1,2.0,260.21,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN101411,30128.0,UPI,INSUFFICIENT_FUNDS,3,0.0,0.0,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101155,48915.19,WALLET,INSUFFICIENT_FUNDS,3,8.0,3913.22,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101304,18869.75,CARD,LIMIT_EXCEEDED,2,12.67,2390.17,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101227,36220.39,UPI,INSUFFICIENT_FUNDS,3,1.33,482.94,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101208,14908.38,NETBANKING,INSUFFICIENT_FUNDS,1,1.33,198.78,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN104412,10419.43,UPI,INSUFFICIENT_FUNDS,1,13.33,1389.26,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN104254,49740.32,WALLET,INSUFFICIENT_FUNDS,3,10.67,5305.63,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104182,11249.27,WALLET,LIMIT_EXCEEDED,2,81.33,9149.41,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101775,25007.95,CARD,INSUFFICIENT_FUNDS,3,2.67,666.88,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104654,15175.18,NETBANKING,INSUFFICIENT_FUNDS,1,1.33,202.34,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN104629,10344.62,UPI,LIMIT_EXCEEDED,2,3.33,344.82,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN104236,43526.62,WALLET,INSUFFICIENT_FUNDS,3,19.33,8415.15,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103670,24168.18,WALLET,INSUFFICIENT_FUNDS,3,4.67,1127.85,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104623,5272.95,WALLET,LIMIT_EXCEEDED,0,51.33,2706.78,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN102154,18908.27,NETBANKING,LIMIT_EXCEEDED,2,24.67,4664.04,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN103889,45056.07,CARD,INSUFFICIENT_FUNDS,3,1.33,600.75,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102684,48772.46,NETBANKING,INSUFFICIENT_FUNDS,3,6.67,3251.5,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100580,7839.07,NETBANKING,NETWORK_ERROR,2,17.33,1358.77,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN100466,7877.78,NETBANKING,NETWORK_ERROR,2,16.0,1260.44,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN101786,13997.21,NETBANKING,LIMIT_EXCEEDED,2,74.67,10451.25,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN103958,2724.1,CARD,TIMEOUT,1,92.0,2506.17,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103698,16589.54,CARD,BANK_DECLINE,3,18.67,3096.71,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100503,11197.75,CARD,LIMIT_EXCEEDED,2,11.33,1269.08,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN102474,43241.34,CARD,INSUFFICIENT_FUNDS,3,1.33,576.55,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101927,9506.72,WALLET,BANK_DECLINE,1,72.67,6908.22,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN103851,43545.68,NETBANKING,INSUFFICIENT_FUNDS,3,6.67,2903.05,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102593,24829.5,NETBANKING,INSUFFICIENT_FUNDS,3,3.33,827.65,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100207,3147.73,WALLET,BANK_DECLINE,0,16.0,503.64,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN101217,11416.76,CARD,INSUFFICIENT_FUNDS,2,4.0,456.67,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN103009,7617.29,NETBANKING,INSUFFICIENT_FUNDS,0,13.33,1015.64,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN100880,7725.22,CARD,LIMIT_EXCEEDED,1,8.67,669.52,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101032,13214.23,WALLET,LIMIT_EXCEEDED,3,93.33,12333.28,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102184,9663.46,CARD,BANK_DECLINE,2,43.33,4187.5,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN102821,5175.3,WALLET,INSUFFICIENT_FUNDS,0,17.33,897.05,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN102711,8494.56,CARD,BANK_DECLINE,2,87.33,7418.58,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN104949,8117.02,WALLET,NETWORK_ERROR,3,88.67,7197.09,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100154,13278.48,NETBANKING,INSUFFICIENT_FUNDS,2,7.33,973.76,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN103410,12928.21,WALLET,INSUFFICIENT_FUNDS,2,80.67,10428.76,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN101493,9405.96,NETBANKING,NETWORK_ERROR,3,76.0,7148.53,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101365,10008.05,CARD,LIMIT_EXCEEDED,3,13.33,1334.41,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101388,1557.01,NETBANKING,TIMEOUT,2,84.0,1307.89,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN102742,19310.22,UPI,INSUFFICIENT_FUNDS,2,2.67,514.94,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN102908,13394.59,NETBANKING,INSUFFICIENT_FUNDS,2,7.33,982.27,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN102902,136.57,NETBANKING,TIMEOUT,2,42.67,58.27,RETRY_LATER,"The failure may be temporary, but the recovery probability is moderate."
+TXN104054,10523.65,NETBANKING,LIMIT_EXCEEDED,3,8.67,912.05,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102773,9551.1,WALLET,INSUFFICIENT_FUNDS,0,26.67,2546.96,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN102795,14941.93,CARD,INSUFFICIENT_FUNDS,2,2.67,398.45,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN103615,3918.71,NETBANKING,NETWORK_ERROR,1,97.33,3814.21,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN103954,4934.64,NETBANKING,BANK_DECLINE,0,81.33,4013.51,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN100727,16150.12,WALLET,LIMIT_EXCEEDED,3,89.33,14427.44,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101233,15343.32,WALLET,INSUFFICIENT_FUNDS,2,82.0,12581.52,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN102324,7981.97,UPI,NETWORK_ERROR,3,16.67,1330.33,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102145,4068.8,NETBANKING,BANK_DECLINE,0,34.67,1410.52,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN101591,7777.24,CARD,LIMIT_EXCEEDED,1,8.67,674.03,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN104111,10801.82,WALLET,INSUFFICIENT_FUNDS,2,36.0,3888.66,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN104073,5417.55,CARD,NETWORK_ERROR,3,86.0,4659.09,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100397,19390.89,CARD,LIMIT_EXCEEDED,3,65.33,12668.71,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100524,4784.18,UPI,TIMEOUT,2,37.33,1786.09,DO_NOT_RETRY,Current evidence does not justify another automatic recovery attempt.
+TXN104284,511.76,WALLET,NETWORK_ERROR,1,90.67,464.0,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN104418,9543.95,UPI,BANK_DECLINE,2,10.0,954.4,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN104428,5092.38,UPI,LIMIT_EXCEEDED,1,82.67,4209.7,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN102415,3060.03,CARD,TIMEOUT,2,92.67,2835.63,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN100035,13233.55,WALLET,LIMIT_EXCEEDED,3,93.33,12351.31,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104432,6999.09,UPI,LIMIT_EXCEEDED,1,20.67,1446.48,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN104697,8352.23,WALLET,BANK_DECLINE,2,10.0,835.22,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN101538,18369.25,NETBANKING,LIMIT_EXCEEDED,3,10.0,1836.92,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101476,9397.56,UPI,NETWORK_ERROR,3,13.33,1253.01,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101524,5782.01,NETBANKING,INSUFFICIENT_FUNDS,0,14.0,809.48,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN101663,4553.12,WALLET,TIMEOUT,2,82.67,3763.91,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN100152,12212.19,WALLET,INSUFFICIENT_FUNDS,3,14.0,1709.71,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104957,1293.2,WALLET,TIMEOUT,3,90.67,1172.5,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104135,8858.11,WALLET,INSUFFICIENT_FUNDS,1,41.33,3661.35,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN103124,7081.97,WALLET,BANK_DECLINE,3,9.33,660.98,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103163,13569.59,WALLET,INSUFFICIENT_FUNDS,3,6.0,814.18,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103718,5440.09,UPI,BANK_DECLINE,3,27.33,1486.96,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103926,3608.84,WALLET,BANK_DECLINE,1,20.0,721.77,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN103882,6106.5,UPI,LIMIT_EXCEEDED,2,7.33,447.81,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN100970,9454.11,WALLET,INSUFFICIENT_FUNDS,1,82.0,7752.37,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN100920,4243.43,UPI,NETWORK_ERROR,2,88.0,3734.22,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN100597,5466.19,CARD,INSUFFICIENT_FUNDS,1,81.33,4445.83,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN100555,1795.22,UPI,LIMIT_EXCEEDED,0,34.0,610.37,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN100031,2584.3,CARD,NETWORK_ERROR,2,97.33,2515.39,RETRY,The failure appears temporary and the predicted recovery probability is high.
+TXN102831,7773.61,UPI,INSUFFICIENT_FUNDS,1,31.33,2435.73,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN102707,19033.43,NETBANKING,INSUFFICIENT_FUNDS,3,5.33,1015.12,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102602,10759.38,UPI,INSUFFICIENT_FUNDS,3,0.67,71.73,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102498,4051.17,NETBANKING,LIMIT_EXCEEDED,0,89.33,3619.05,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101340,16360.46,WALLET,INSUFFICIENT_FUNDS,3,2.0,327.21,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101343,1326.49,UPI,LIMIT_EXCEEDED,0,32.67,433.32,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101649,4167.49,UPI,TIMEOUT,3,86.67,3611.82,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101623,5757.42,UPI,LIMIT_EXCEEDED,2,14.0,806.04,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN101998,17137.22,WALLET,INSUFFICIENT_FUNDS,3,2.0,342.74,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100449,12201.3,NETBANKING,INSUFFICIENT_FUNDS,3,10.67,1301.47,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100275,369.17,CARD,BANK_DECLINE,1,92.67,342.1,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN101520,9292.31,WALLET,BANK_DECLINE,3,10.0,929.23,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102329,8164.2,CARD,BANK_DECLINE,3,92.67,7565.49,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102183,7963.02,WALLET,INSUFFICIENT_FUNDS,1,80.0,6370.42,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN101125,6850.74,NETBANKING,BANK_DECLINE,3,23.33,1598.51,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101278,13702.33,UPI,INSUFFICIENT_FUNDS,3,0.0,0.0,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100170,10841.01,CARD,INSUFFICIENT_FUNDS,3,2.67,289.09,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100121,259.4,NETBANKING,BANK_DECLINE,2,49.33,127.97,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN104918,460.37,WALLET,NETWORK_ERROR,3,94.67,435.82,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103905,4835.79,NETBANKING,INSUFFICIENT_FUNDS,0,20.0,967.16,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN103616,2360.33,NETBANKING,NETWORK_ERROR,3,35.33,833.98,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104230,6479.77,UPI,LIMIT_EXCEEDED,3,7.33,475.18,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103247,818.1,CARD,LIMIT_EXCEEDED,1,92.67,758.11,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN103154,8860.11,NETBANKING,LIMIT_EXCEEDED,3,12.67,1122.28,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103638,4678.28,CARD,LIMIT_EXCEEDED,1,90.67,4241.64,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN103509,1715.47,CARD,INSUFFICIENT_FUNDS,0,36.0,617.57,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN103243,3991.5,WALLET,NETWORK_ERROR,3,95.33,3805.23,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN103205,4237.35,UPI,NETWORK_ERROR,3,84.67,3587.62,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102815,5449.78,CARD,INSUFFICIENT_FUNDS,2,20.0,1089.96,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN100022,3412.74,WALLET,BANK_DECLINE,2,28.67,978.32,CUSTOMER_ACTION,The issuing bank declined the payment. Customer intervention may be required.
+TXN100517,5497.34,CARD,LIMIT_EXCEEDED,3,13.33,732.98,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100751,3827.99,UPI,NETWORK_ERROR,3,91.33,3496.23,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101508,9975.31,UPI,INSUFFICIENT_FUNDS,2,4.67,465.51,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN102364,3965.1,WALLET,LIMIT_EXCEEDED,1,53.33,2114.72,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN102404,8401.6,NETBANKING,INSUFFICIENT_FUNDS,2,74.67,6273.19,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN103021,1465.06,WALLET,BANK_DECLINE,2,80.67,1181.82,ALTERNATE_METHOD,The bank declined the transaction. Using another payment method may improve the recovery opportunity.
+TXN103013,3918.04,CARD,INSUFFICIENT_FUNDS,0,83.33,3265.03,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN100585,2217.39,NETBANKING,BANK_DECLINE,3,45.33,1005.22,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104434,4489.19,NETBANKING,LIMIT_EXCEEDED,2,24.0,1077.41,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN103275,3037.7,CARD,INSUFFICIENT_FUNDS,1,90.67,2754.18,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN104057,4615.53,UPI,INSUFFICIENT_FUNDS,1,27.33,1261.58,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN104527,1640.83,WALLET,LIMIT_EXCEEDED,2,31.33,514.13,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN102420,2077.21,UPI,BANK_DECLINE,3,87.33,1814.1,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104915,4080.53,WALLET,BANK_DECLINE,3,33.33,1360.18,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104852,9596.29,WALLET,INSUFFICIENT_FUNDS,3,7.33,703.73,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102367,2232.19,CARD,LIMIT_EXCEEDED,2,45.33,1011.93,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN102431,3865.98,WALLET,BANK_DECLINE,3,79.33,3067.01,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104677,1378.44,UPI,INSUFFICIENT_FUNDS,1,80.0,1102.75,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN102950,1242.59,NETBANKING,LIMIT_EXCEEDED,2,20.0,248.52,ALTERNATE_METHOD,The current payment route may not accept another attempt. Suggest another method.
+TXN104739,300.68,WALLET,INSUFFICIENT_FUNDS,1,69.33,208.47,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN101145,7696.12,CARD,INSUFFICIENT_FUNDS,3,9.33,718.3,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101002,4955.33,WALLET,INSUFFICIENT_FUNDS,1,56.67,2808.02,CUSTOMER_ACTION,The payment likely requires customer action before another attempt.
+TXN104378,1089.72,NETBANKING,LIMIT_EXCEEDED,3,8.67,94.44,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102156,3654.79,NETBANKING,LIMIT_EXCEEDED,3,12.0,438.57,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN101236,4335.34,CARD,LIMIT_EXCEEDED,3,14.0,606.95,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN100020,2264.42,CARD,LIMIT_EXCEEDED,3,24.67,558.56,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104059,4666.06,UPI,INSUFFICIENT_FUNDS,3,2.0,93.32,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN104700,4249.01,UPI,INSUFFICIENT_FUNDS,3,6.0,254.94,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
+TXN102009,4698.48,WALLET,INSUFFICIENT_FUNDS,3,10.0,469.85,STOP_RETRYING,Multiple previous retries detected. Further retries may have low value.
